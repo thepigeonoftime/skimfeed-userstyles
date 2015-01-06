@@ -1,0 +1,19 @@
+@-moz-document domain("skimfeed.com") {
+body {
+    	background-color:#FFF !important;
+    	color:#333333 !important;
+    
+	}
+
+ul a {
+  color:#000 !important;
+}
+
+#menubar a{
+  color:#f60
+}
+
+#optionsbutton, #tagline {
+  color:#f60 !important;
+}
+}
