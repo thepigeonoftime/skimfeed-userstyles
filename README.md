@@ -1,8 +1,8 @@
-skimfeed-userstyle
+Skimfeed Userstyles
 ==================
 
-Skimfeed.com Userstyles to be used with Stylish.
+Skimfeed.com Userstyles to be used with Stylish [Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=de "Chrome") / [Firefox](https://addons.mozilla.org/de/firefox/addon/stylish/ "Firefox") Extension.
 
-( Directly installable on https://userstyles.org/users/272487 )
+( Userstyles repo on https://userstyles.org/users/272487 )
 
 
